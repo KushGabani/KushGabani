@@ -41,14 +41,3 @@ Javascript               2 hrs 7 mins        ███████████�
 Java                     1 hr 31 mins        ██████████████████░░░░░░░   70.31% 
 C++                      1 hr 3 mins         ███████████░░░░░░░░░░░░░░   40.43%
 ```
-
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Filters Projects </h3>
-      <h6>📒&emsp;<a href="https://github.com/KushGabani?tab=repositories&q=&type=&language=python">Python</a></h6>
-      <h6>📗&emsp;<a href="https://github.com/KushGabani?tab=repositories&q=&type=&language=javascript">Javascript</a></h6>
-      <h6>📘&emsp;<a href="https://github.com/KushGabani?tab=repositories&q=&type=&language=html">Website</a></h6>
-      </td>
-  </tr>
-</table>
