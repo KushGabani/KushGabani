@@ -11,12 +11,12 @@ const KushGabani = {
   pronouns: "He" | "Him",
   age: 20,
   code: ["Python", "Javascript", "Java", "PHP", "C#", "C++", "HTML/CSS", "React"],
-  askMeAbout: ["App developement", "UI/UX", "website development", "Machine Learning", "Neural Networks", "Web application"],
+  askMeAbout: ["Deep Learning", "Machine Learning", "UI/UX", "Web development"],
   technologies: {
       design: ["Adobe XD", "Figma"],
-      mobileApp: ["Android App"],
+      machineLearning : ["TensorFlow", "Keras", "TensorflowJS"]
       frontEnd: {
-          js: ["vanilla", "React.js"],
+          js: ["VanillaJS", "React.js", "Gatsby.js"],
           css: ["materialize", "bootstrap"]
       },
       backEnd: {
@@ -24,7 +24,7 @@ const KushGabani = {
           python: ["flask"]
       },
       databases: ["Mongo DB", "MySql"],
-      misc: ["ASP.Net", "Tensorflow", "Selenium", "php", "SuiteApp"]
+      misc: ["ASP.Net", "Selenium", "php", "SuiteApp"]
   },
   architecture: ["Single page applications"],
   currentFocus: "Machine Learning and Deep Learning",
