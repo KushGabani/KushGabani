@@ -1,4 +1,4 @@
-### Hello World! 👋
+## Hello World! 👋
 
 <!--
 **KushGabani/KushGabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,3 +42,5 @@ Java                     ██████████████████�
 C++                      ███████████░░░░░░░░░░░░░░   55.43%
 PHP                      ███████████░░░░░░░░░░░░░░   50.72%
 ```
+
+![Kush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KushGabani&count_private=true&hide=stars&show_icons=true&theme=radical)
