@@ -26,8 +26,7 @@ const KushGabani = {
       databases: ["Mongo DB", "MySql"],
       misc: ["ASP.Net", "Selenium", "php", "SuiteApp"]
   },
-  architecture: ["Single page applications"],
-  currentFocus: "Machine Learning and Deep Learning",
+  currentFocus: "Neural Networks and Deep Learning",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -43,4 +42,4 @@ C++                      ███████████░░░░░░░�
 PHP                      ███████████░░░░░░░░░░░░░░   50.72%
 ```
 
-![Kush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KushGabani&count_private=true&hide=stars&show_icons=true&theme=radical)
+![Kush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KushGabani&count_private=true&hide=stars&show_icons=true&theme=default)
