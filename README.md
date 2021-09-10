@@ -43,3 +43,5 @@ PHP                      ███████████░░░░░░░�
 ```
 
 ![Kush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KushGabani&count_private=true&hide=stars&show_icons=true&theme=default)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KushGabani&" alt="KushGabani Stats" /></p>
