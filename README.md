@@ -10,23 +10,24 @@ import json
 const KushGabani = {
   pronouns: "He" | "Him",
   age: 20,
-  code: ["Python", "Javascript", "Java", "PHP", "C#", "C++", "HTML/CSS", "React"],
+  code: ["Python", "Javascript", "Java", "C++", "HTML/CSS", "Dart"],
   askMeAbout: ["Deep Learning", "Machine Learning", "UI/UX", "Web development"],
   technologies: {
       design: ["Adobe XD", "Figma"],
       machineLearning : ["TensorFlow", "Keras", "TensorflowJS"]
       frontEnd: {
-          js: ["VanillaJS", "React.js", "Gatsby.js"],
+          js: ["VanillaJS", "React.js", "Gatsby.js", "Angular"],
           css: ["materialize", "bootstrap"]
       },
       backEnd: {
           js: ["node.js", "express"],
-          python: ["flask"]
+          python: ["flask"],
+          java: ["spring boot"]
       },
-      databases: ["Mongo DB", "MySql"],
-      misc: ["ASP.Net", "Selenium", "php", "SuiteApp"]
+      databases: ["mongo db", "mysql", "Cloud firestore", "redis"],
+      misc: ["selenium", "git", "postman", "httpie"]
   },
-  currentFocus: "Neural Networks and Deep Learning",
+  currentFocus: "Neural Networks and Deep Learning, frontend frameworks",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
