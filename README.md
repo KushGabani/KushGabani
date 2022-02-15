@@ -5,42 +5,33 @@
 -->
 
 ```javascript
-import json
-
 const KushGabani = {
   pronouns: "He" | "Him",
-  age: 20,
-  code: ["Python", "Javascript", "Java", "C++", "HTML/CSS", "Dart"],
-  askMeAbout: ["Deep Learning", "Machine Learning", "UI/UX", "Web development"],
+  age: 21,
+  code: ["Python", "Javascript", "Java", "Dart"],
+  askMeAbout: ["Deep Learning", "Machine Learning", "UI/UX", "Full-stack Web Development"],
   technologies: {
-      design: ["Adobe XD", "Figma"],
-      machineLearning : ["TensorFlow", "Keras", "TensorflowJS"]
+      design: ["Figma", "Adobe XD"],
+      machineLearning : ["TensorFlow", "Keras", "PyTorch (beginner)"]
       frontEnd: {
-          js: ["VanillaJS", "React.js", "Gatsby.js", "Angular"],
-          css: ["materialize", "bootstrap"]
+          js: ["React.js", "Gatsby.js", "Next.js"],
+          css: ["TailWindCSS", "Sass"],
+          mobile: ["Flutter", "React Native"]
       },
       backEnd: {
-          js: ["node.js", "express"],
-          python: ["flask"],
-          java: ["spring boot"]
+          js: ["Node.js", "Express"],
+          python: ["Flask"],
+          java: ["Spring Boot"],
+          databases: ["Mongodb", "Mysql", "Postgresql", "Redis"],
       },
-      databases: ["mongo db", "mysql", "Cloud firestore", "redis"],
-      misc: ["selenium", "git", "postman", "httpie"]
+      misc: ["git", "Postman", "curl"]
   },
-  currentFocus: "Neural Networks and Deep Learning, frontend frameworks",
+  currentFocus: "Neural Networks and Deep Learning, Full-stack development",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   ██████████████████████      89.19% 
-Java                     ███████████████░░░░░░░░░░   60.82% 
-Javascript               ██████████████████░░░░░░░   70.31% 
-C++                      ███████████░░░░░░░░░░░░░░   55.43%
-PHP                      ███████████░░░░░░░░░░░░░░   50.72%
-```
+#### [LinkedIn](https://linkedin.com/in/kushgabani)
+#### [Personal Portfolio](https://kushgabani.gtsb.io)
 
 ![Kush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KushGabani&count_private=true&hide=stars&show_icons=true&theme=default)
