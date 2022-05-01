@@ -9,14 +9,14 @@ const KushGabani = {
   pronouns: "He" | "Him",
   age: 21,
   code: ["Python", "Javascript", "Java", "Dart"],
-  askMeAbout: ["Deep Learning", "Machine Learning", "UI/UX", "Full-stack Web Development"],
+  askMeAbout: ["Full-stack Web Development", "Deep Learning", "Machine Learning", "UI/UX"],
   technologies: {
       design: ["Figma", "Adobe XD"],
       machineLearning : ["TensorFlow", "Keras", "PyTorch (beginner)"]
       frontEnd: {
           js: ["React.js", "Gatsby.js", "Next.js"],
           css: ["TailWindCSS", "Sass"],
-          mobile: ["Flutter", "React Native"]
+          mobile: ["Flutter"]
       },
       backEnd: {
           js: ["Node.js", "Express"],
@@ -26,7 +26,7 @@ const KushGabani = {
       },
       misc: ["git", "Postman", "curl"]
   },
-  currentFocus: "Neural Networks and Deep Learning, Full-stack development",
+  currentFocus: "Full-stack development. Neural Networks and Deep Learning",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
