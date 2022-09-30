@@ -11,18 +11,17 @@ const KushGabani = {
   code: ["Python", "Javascript", "Java", "Dart"],
   askMeAbout: ["Full-stack Web Development", "Deep Learning", "Machine Learning", "UI/UX"],
   technologies: {
-      design: ["Figma", "Adobe XD"],
-      machineLearning : ["TensorFlow", "Keras", "PyTorch (beginner)"]
+      design: ["Figma"],
+      machineLearning : ["TensorFlow", "Keras"]
       frontEnd: {
-          js: ["React.js", "Gatsby.js", "Next.js"],
-          css: ["TailWindCSS", "Sass"],
+          js: ["React.js", "Gatsby.js (beginner)", "Next.js (beginner)"],
+          css: ["TailWindCSS"],
           mobile: ["Flutter"]
       },
       backEnd: {
-          js: ["Node.js", "Express"],
+          js: ["Node.js", "Nest.js", "Express"],
           python: ["Flask"],
-          java: ["Spring Boot"],
-          databases: ["Mongodb", "Mysql", "Postgresql", "Redis"],
+          databases: ["Mysql", "Postgresql", "Mongodb"],
       },
       misc: ["git", "Postman", "curl"]
   },
