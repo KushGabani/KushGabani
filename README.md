@@ -8,22 +8,22 @@
 const KushGabani = {
   pronouns: "He" | "Him",
   age: 21,
-  code: ["Python", "Javascript", "Java", "Dart"],
+  code: ["Typescript", "Javascript", "Python", "Java", "Dart"],
   askMeAbout: ["Full-stack Web Development", "Deep Learning", "Machine Learning", "UI/UX"],
   technologies: {
       design: ["Figma"],
-      machineLearning : ["TensorFlow", "Keras"]
+      machineLearning : ["TensorFlow", "Keras", "PyTorch (Beginner)"]
       frontEnd: {
-          js: ["React.js", "Gatsby.js (beginner)", "Next.js (beginner)"],
+          js: ["React.js", "Next.js"],
           css: ["TailWindCSS"],
           mobile: ["Flutter"]
       },
       backEnd: {
           js: ["Node.js", "Nest.js", "Express"],
           python: ["Flask"],
-          databases: ["Mysql", "Postgresql", "Mongodb"],
+          databases: ["MySQL", "PostgreSQL", "MongoDB"],
       },
-      misc: ["git", "Postman", "curl"]
+      misc: ["git", "Postman/Thunder Client", "curl"]
   },
   currentFocus: "Full-stack development. Neural Networks and Deep Learning",
   funFact: "There are two ways to write error-free programs; only the third one works"
@@ -31,6 +31,6 @@ const KushGabani = {
 ```
 
 #### [LinkedIn](https://linkedin.com/in/kushgabani)
-#### [Personal Portfolio](https://kushgabani.gtsb.io)
+#### [Personal Portfolio](https://kushgabani.gatsbyjs.io/)
 
 ![Kush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KushGabani&count_private=true&hide=stars&show_icons=true&theme=default)
