@@ -32,3 +32,5 @@ const KushGabani = {
 
 #### [LinkedIn](https://linkedin.com/in/kushgabani)
 #### [Personal Portfolio](https://kushgabani.gatsbyjs.io/)
+
+<img src="https://myreadme.vercel.app/api/embed/KushGabani?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
