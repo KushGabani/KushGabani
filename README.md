@@ -32,5 +32,3 @@ const KushGabani = {
 
 #### [LinkedIn](https://linkedin.com/in/kushgabani)
 #### [Personal Portfolio](https://kushgabani.gatsbyjs.io/)
-
-![Kush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KushGabani&count_private=true&hide=stars&show_icons=true&theme=default)
