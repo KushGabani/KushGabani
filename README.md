@@ -7,9 +7,9 @@
 ```javascript
 const KushGabani = {
   pronouns: "He" | "Him",
-  age: 21,
-  code: ["Typescript", "Javascript", "Python", "Java", "Dart"],
-  askMeAbout: ["Full-stack Web Development", "Deep Learning", "Machine Learning", "UI/UX"],
+  age: 23,
+  code: ["Typescript", "Javascript", "Python", "Dart", "Java"],
+  askMeAbout: ["Full-stack Web Development", "UI/UX", "LLMs", "Deep Learning"],
   technologies: {
       design: ["Figma"],
       machineLearning : ["TensorFlow", "Keras", "PyTorch (Beginner)"]
@@ -25,12 +25,12 @@ const KushGabani = {
       },
       misc: ["git", "Postman/Thunder Client", "curl"]
   },
-  currentFocus: "Full-stack development. Neural Networks and Deep Learning",
+  currentFocus: "Full-stack development @ Keyflow and Alter, LLMs, AI Automations,",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
 #### [LinkedIn](https://linkedin.com/in/kushgabani)
-#### [Personal Portfolio](https://kushgabani.gatsbyjs.io/)
+#### [Personal Portfolio](https://kushgabani.vercel.app)
 
 <img src="https://myreadme.vercel.app/api/embed/KushGabani?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
