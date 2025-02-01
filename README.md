@@ -31,6 +31,6 @@ const KushGabani = {
 ```
 
 #### [LinkedIn](https://linkedin.com/in/kushgabani)
-#### [Personal Portfolio](https://kushgabani.vercel.app)
+#### [Personal Portfolio](https://kush.gabani.me)
 
 <img src="https://myreadme.vercel.app/api/embed/KushGabani?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
